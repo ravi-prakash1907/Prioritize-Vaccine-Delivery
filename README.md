@@ -17,7 +17,7 @@
 
 This repo. is created for the _[EY Hackathon Project](https://www.ey.com/en_in/techathon)_.  
 
-More information is yet to be uploaded. Stay tuned for the updates...  
+More information is yet to be uploaded. Stay tuned for further updates...  
 
 ---  
 ### Sources  
