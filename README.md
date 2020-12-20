@@ -15,7 +15,7 @@
   
 **The Intro** 
 
-This repo. is created for the _[EY Hackathon Project](https://www.ey.com/en_in/techathon)_.  
+This repo. is created for the _[EY Techathon Project](https://www.ey.com/en_in/techathon)_.  
 
 More information is yet to be uploaded. Stay tuned for further updates...  
 
