@@ -53,7 +53,7 @@ Here, we'll have to inform that which part or state or population-distribution s
 > States can be classified on the following criterion:  
 > 1. Affect of COVID-19  
 >   * by **zone** (red, orange and green zone by gove.)  
->   * by **percentage** of population **affected9**, out of total  
+>   * by **percentage** of population **affected**, out of total  
 >   * by **death VS recovery** ratio  
 > 2. Population Distribution
 >   * by **age-group**  
