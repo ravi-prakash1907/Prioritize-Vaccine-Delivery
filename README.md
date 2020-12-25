@@ -17,7 +17,7 @@
 
 This repository is created towards developing a solution for the prject entitled **Prioritize vaccine delivery using AI/ML** of [EY Techathon - 2020](https://www.ey.com/en_in/techathon).  
 
-_**more information about this project** can be found [here](https://www.ey.com/en_in/techathon/problem-statement-ii-prioritize-vaccine-delivery-using-ai-ml)_  
+_**more information about this project** can be found [here](https://www.ey.com/en_in/techathon/problem-statement-ii-prioritize-vaccine-delivery-using-ai-ml)._  
 
 ### Objective:  
 Our objective is to give a solution for the the problem that __where the vaccine should be delivered first,__ accross the whole nation. Furtheremore, it'll be even better if could give that how much percentage of total dose should be delivered there.  
