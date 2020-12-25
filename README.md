@@ -70,7 +70,7 @@ This prioritization can be done district-wise.
 > District can be classified on the following criterion:  
 > 1. Affect of COVID-19  
 >   * by **zone** (red, orange and green zone by gove.)  
->   * by **percentage** of population **affected9**, out of total  
+>   * by **percentage** of population **affected**, out of total  
 >   * by **death VS recovery** ratio  
 > 2. Population Distribution
 >   * by **age-group**  
@@ -121,10 +121,6 @@ This new page should consist of the following:
     │
     └── Live COVID-19 Stats   # For current State 
 ```
-
-> 1. A visualization on the **map**  
-
-
 
 <br />  
 
