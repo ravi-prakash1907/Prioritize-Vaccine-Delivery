@@ -36,7 +36,7 @@ The solution should enable one to get the following:
 1. a _visual representation of prioritized **states** on **map**_ for the whole country  
 2. a _visual representation of prioritized **districts** on **map**_ for every state  
 3. _**States** and **Districts** with **highest requirement**_ of the vaccine must always be visible.  
-4. Detailed priority (as mentioned in [_objective section_](#objective)) requirement for any searched state should also be possible.  
+4. Detailed priority (as mentioned in [_objective section_](#the-intro)) requirement for any searched state should also be possible.  
 
 <br />  
 
