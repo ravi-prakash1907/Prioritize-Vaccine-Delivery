@@ -83,21 +83,21 @@ We wish the home screen to have the following structure:
 ```
     HOME
     .
-    ├── Map (India)             # Bubble Chart for Priority (district-wise)
+    ├── Map (India)        # Bubble Chart for Priority (district-wise)
     │
-    ├── 5-States                # with hishest priority 
+    ├── 5-States           # with hishest priority 
     │
-    ├── 5-Districts             # with hishest priority 
+    ├── 5-Districts        # with hishest priority 
     │
-    ├── Population-Wise         # with hishest priority 
+    ├── Population-Wise    # with hishest priority 
     │   │
     │   ├── Top Age-Group 
     │   │
     │   └── Top Employees
     │
-    ├── Live COVID-19 Stats     # Overall India 
+    ├── Live COVID-19 Stats   # Overall India 
     │
-    └── SEARCH                  # Detailed info for any perticular state
+    └── SEARCH                # Detailed info for any perticular state
         .
         .
         └── ...         
@@ -109,17 +109,17 @@ This new page should consist of the following:
 ```
     STATE
     .
-    ├── Map (State)             # Bubble Chart for Priority (district-wise)
+    ├── Map (State)        # Bubble Chart for Priority (district-wise)
     │
-    ├── 5-Districts             # with hishest priority 
+    ├── 5-Districts        # with hishest priority 
     │
-    ├── Population-Wise         # with hishest priority 
+    ├── Population-Wise    # with hishest priority 
     │   │
     │   ├── Top Age-Group 
     │   │
-    │   └── Top Area           # rural or urban
+    │   └── Top Area          # rural or urban
     │
-    └── Live COVID-19 Stats     # For current State 
+    └── Live COVID-19 Stats   # For current State 
 ```
 
 > 1. A visualization on the **map**  
