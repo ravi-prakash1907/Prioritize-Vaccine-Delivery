@@ -124,7 +124,7 @@ This new page should consist of the following:
 
 <br />  
 
-## Data-Source  
+## Data-Sources  
 [https://www.covid19india.org/](https://www.covid19india.org/)  
 [https://api.covid19india.org/](https://api.covid19india.org/)  
 
