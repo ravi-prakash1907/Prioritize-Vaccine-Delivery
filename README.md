@@ -1,6 +1,6 @@
-# Prioritising Vaccine Delivery :syringe:  
+# Prioritising Vaccine Delivery 💉  
 
-### An AI/ML Project :robot:  
+### An AI/ML Project 🤖  
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 ![All Contributors](https://img.shields.io/github/contributors/ravi-prakash1907/Prioritize-vaccine-delivery-using-AI-ML?style=for-the-badge)  
@@ -15,13 +15,13 @@
 
 ![EY Header](./img/ey_header.jpg)   
   
-## The Intro :pushpin: 
+## The Intro 📌 
 
 This repository is created towards developing a solution for the prject entitled **Prioritize vaccine delivery using AI/ML** of [EY Techathon - 2020](https://www.ey.com/en_in/techathon).  
 
 _**more information about this project** can be found [here](https://www.ey.com/en_in/techathon/problem-statement-ii-prioritize-vaccine-delivery-using-ai-ml)._  
 
-### Objective :thinking:  
+### Objective 🤔  
 Our objective is to give a solution for the the problem that __where the vaccine should be delivered first,__ accross the whole nation. Furtheremore, it'll be even better if could give that how much percentage of total dose should be delivered there.  
 The priority can be classified on the base of multiple criterion, viz.:  
 1. **states** or **union-teritories**  
@@ -33,7 +33,7 @@ The priority can be classified on the base of multiple criterion, viz.:
 
 <br />  
 
-## Requirements for the Desired Solution :zap:  
+## Requirements for the Desired Solution ⚡  
 The solution should enable one to get the following:
 1. a _visual representation of prioritized **states** on **map**_ for the whole country  
 2. a _visual representation of prioritized **districts** on **map**_ for every state  
@@ -42,7 +42,7 @@ The solution should enable one to get the following:
 
 <br />  
 
-## Steps of the Solution :paw_prints:  
+## Steps of the Solution 🐾  
 We can divide the whole process of this solution in three major parts.  
 1. Prioritization for the whole **nation**  
 2. Prioritization for the every individual **disrtict**  
@@ -50,7 +50,7 @@ We can divide the whole process of this solution in three major parts.
 
 ### Elaborating Further  
 
-#### **1. Prioritization for India** :top:  
+#### **1. Prioritization for India** 🔝  
 Here, we'll have to inform that which part or state or population-distribution should get the vaccine, first. For that we have to keep various things into consideration.  
 > States can be classified on the following criterion:  
 > 1. Affect of COVID-19  
@@ -65,7 +65,7 @@ Here, we'll have to inform that which part or state or population-distribution s
 >   * **Connectivity** to other states/district (through transportation etc..)  
 >   * **Interaction** among the population  
 
-#### **2. Prioritization for a Particular State** :point_up:  
+#### **2. Prioritization for a Particular State** ☝️  
 For a better estimate and results, it is good idea to provide another **prioritization in the state-level**. It will be helpful for the **state governments** to manage the delivery in an optimal way.  
 This prioritization can be done district-wise.  
 > District can be classified on the following criterion:  
@@ -78,7 +78,7 @@ This prioritization can be done district-wise.
 >   * by **rural VS urban** ratio  
 >   * **Interaction** among the population  
 
-#### **3. UI Integration** :computer:  
+#### **3. UI Integration** 💻  
 We wish the home screen to have the following structure:  
 
 ```
@@ -125,14 +125,14 @@ This new page should consist of the following:
 
 <br />  
 
-## Data-Sources :information_source:  
+## Data-Sources ℹ️  
 [https://www.covid19india.org/](https://www.covid19india.org/)  
 [https://api.covid19india.org/](https://api.covid19india.org/)  
 
 
 ---  
 
-## Wanna Countribute? :sparkles:  
+## Wanna Countribute? ✨  
 You can contribute to this project in various way. Few of them can be:  
 1. Providing datasets (as explained above)  
 2. Python scripts to scrape, get or clean the datasets  
