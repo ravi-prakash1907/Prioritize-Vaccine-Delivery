@@ -17,12 +17,12 @@
   
 ## The Intro 📌 
 
-This repository is created towards developing a solution for the prject entitled **Prioritize vaccine delivery using AI/ML** of [EY Techathon - 2020](https://www.ey.com/en_in/techathon).  
+This repository is created towards developing a solution for the project entitled **Prioritize vaccine delivery using AI/ML** of [EY Techathon - 2020](https://www.ey.com/en_in/techathon).  
 
 _**more information about this project** can be found [here](https://www.ey.com/en_in/techathon/problem-statement-ii-prioritize-vaccine-delivery-using-ai-ml)._  
 
 ### Objective 🤔  
-Our objective is to give a solution for the the problem that __where the vaccine should be delivered first,__ accross the whole nation. Furtheremore, it'll be even better if could give that how much percentage of total dose should be delivered there.  
+Our objective is to provide a solution to the problem of __where the vaccine should be delivered first,__ accross the whole nation. Furtheremore, it'll be even better if we could predict the percentage of total dose that should be delivered there.  
 The priority can be classified on the base of multiple criterion, viz.:  
 1. **states** or **union-teritories**  
 2. **districts** or **provinces**  
@@ -43,7 +43,7 @@ The solution should enable one to get the following:
 <br />  
 
 ## Steps of the Solution 🐾  
-We can divide the whole process of this solution in three major parts.  
+We can divide the whole process of this solution into three major parts.  
 1. Prioritization for the whole **nation**  
 2. Prioritization for the every individual **disrtict**  
 3. UI intigration for the solution  
