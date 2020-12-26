@@ -60,7 +60,6 @@ Here, we'll have to inform that which part or state or population-distribution s
 >   * by **employment status**  
 >   * by **literacy-rate**  
 > 3. Economy & Development
->   * .....  
 >   * **Connectivity** to other states/district (through transportation etc..)  
 >   * **Interaction** among the population  
 
